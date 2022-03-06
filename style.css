@@ -1,0 +1,23 @@
+#info {
+border-collapse: collapse;
+width: 100%;
+}
+
+#info td, #info th {
+border: 1px solid #DDD;
+padding: 8px;
+color: yellow;
+}
+
+.background {
+background-image: url("OuttaSpace2.jpg");
+background-size: cover;
+}
+
+body {
+color: white;
+}
+
+h1 {
+text-align: center;
+}
